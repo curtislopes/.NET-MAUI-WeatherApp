@@ -1,0 +1,1 @@
+C:\Users\c-lop\OneDrive\Desktop\practice\MauiWeatherApp\MauiWeatherApp.csproj;x64
